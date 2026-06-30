@@ -99,7 +99,6 @@ Desarrollar e implementar un modelo predictivo basado en técnicas de Machine Le
 * Numpy
 * Matplotlib
 * Seaborn
-* Scikit-Learn
 
 ##  Herramientas de desarrollo
 
